@@ -5,7 +5,6 @@
 - [Legal Notice](#Legal-Notice)
 - [Overview](#overview)
 - [Language Support](#language-support)
-- 
 ---
 ## Legal Notice
 
