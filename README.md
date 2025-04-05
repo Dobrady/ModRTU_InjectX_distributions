@@ -1,5 +1,30 @@
 # ModRTU_InjectX
 
+## Legal Notice
+
+- Author: Zoltán Dobrady  
+- Website: www.cyberseclab.eu  
+- Contact: zoltan.dobrady@hotmail.com  
+- License: Creative Commons BY-NC 4.0  
+- Version: v2025.x  
+- Copyright: © 2024–2025
+
+This software is for educational and research purposes only or other non-commercial use.  
+Use in an industrial environment is strictly forbidden.  
+The author must be credited in all use cases.  
+Commercial use requires written permission.
+
+---
+
+## Contents
+
+- [Overview](#overview)
+- [Screenshot](#screenshot)
+- [Features](#features)
+- [Language Support](#language-support)
+
+---
+## Overview
 **ModRTU__InjectX** is a Python-based software tool with a graphical user interface (GUI), specifically developed for research and educational purposes to enable a practical demonstration of the industrial communication protocol Modbus RTU. The platform also provides capabilities to simulate and log various cyber threats based on command injection techniques.
 
 ![ModRTU InjectX Screenshot](assets/Screenshot_main.png)
