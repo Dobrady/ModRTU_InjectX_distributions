@@ -25,9 +25,11 @@ The program includes built-in help content in **three languages**:
 - Hungarian
 
 You can switch between languages by clicking the corresponding flag icon in the top-right corner of the application's interface.
+
 ![ModRTU InjectX Screenshot](assets/Screenshot_help_ENG.png)
 ![ModRTU InjectX Screenshot](assets/Screenshot_help_DE.png)
 ![ModRTU InjectX Screenshot](assets/Screenshot_help_HU.png)
+
 ## Legal Notice
 
 - Author: Zoltán Dobrady
