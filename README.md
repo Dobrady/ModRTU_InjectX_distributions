@@ -1,7 +1,7 @@
 # ModRTU_InjectX
 
 **ModRTU__InjectX** is a Python-based software tool with a graphical user interface (GUI), specifically developed for research and educational purposes to enable a practical demonstration of the industrial communication protocol Modbus RTU. The platform also provides capabilities to simulate and log various cyber threats based on command injection techniques.
-
+![ModRTU InjectX Screenshot](ModRTU_InjectX_distributions/assets/Screenshot_main.png)
 The software can establish a connection to a serial interface (e.g., COM port), allowing passive monitoring of data traffic and logging the entire communication flow on the bus. Events can be exported to a text file for further analysis. Moreover, the platform is capable of detecting and capturing unique incoming communication data frames, facilitating the review and identification of protocol structures.
 
 This functionality enables users to assemble synthetically generated—fictitious—data packets, which can then be injected into the communication channel. The injection mechanism is based on an event-driven logic, constituting a core feature of the software.
