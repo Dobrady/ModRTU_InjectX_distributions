@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Legal Notice](#Legal Notice)
+- [Legal Notice](#Legal-Notice)
 - [Overview](#overview)
 - [Language Support](#language-support)
 - 
