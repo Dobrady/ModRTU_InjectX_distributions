@@ -16,6 +16,16 @@ The program allows for the dynamic configuration of multiple independent command
 
 The software evaluates the success of the injected messages and records them in statistical logs. Injected packets that fail to elicit a meaningful response (i.e., the target system did not execute the manipulated command) are also logged. Additionally, statistics on successfully executed command injections are compiled.
 
+## Language Support
+
+The program includes built-in help content in **three languages**:
+
+- English
+- German
+- Hungarian
+
+You can switch between languages by clicking the corresponding flag icon in the top-right corner of the application's interface.
+
 ## Legal Notice
 
 - Author: Zoltán Dobrady
