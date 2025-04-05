@@ -25,14 +25,16 @@ The program includes built-in help content in **three languages**:
 - Hungarian
 
 You can switch between languages by clicking the corresponding flag icon in the top-right corner of the application's interface.
-
+![ModRTU InjectX Screenshot](assets/Screenshot_help_ENG.png)
+![ModRTU InjectX Screenshot](assets/Screenshot_help_DE.png)
+![ModRTU InjectX Screenshot](assets/Screenshot_help_HU.png)
 ## Legal Notice
 
 - Author: Zoltán Dobrady
 - Website: www.cyberseclab.eu
 - Contact: zoltan.dobrady@hotmail.com
 - License: Creative Commons BY-NC 4.0
-- Version: v2025.x
+- Version: v1.8.7
 - Copyright: © 2024–2025
 
 This software is for educational and research purposes only or other non-commercial use.  
