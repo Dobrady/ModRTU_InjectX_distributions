@@ -29,3 +29,8 @@ The author must be credited in all use cases.
 Commercial use requires written permission.
 
 ![ModRTU InjectX Screenshot](assets/screenshot_main.png)
+## Screenshot
+
+Here is the graphical user interface of ModRTU InjectX:
+
+![ModRTU InjectX Screenshot](assets/Screenshot_main.png)
