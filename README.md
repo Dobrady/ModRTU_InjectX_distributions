@@ -27,3 +27,5 @@ This software is for educational and research purposes only or other non-commerc
 Use in an industrial environment is strictly forbidden.  
 The author must be credited in all use cases.  
 Commercial use requires written permission.
+
+![ModRTU InjectX Screenshot](assets/screenshot_main.png)
