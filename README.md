@@ -6,6 +6,7 @@
 - [Overview](#overview)
 - [Language Support](#language-support)
 - [Validator Module](#validator-module)
+- [Citation](#Citation)
 ---
 ## Legal Notice
 
