@@ -99,7 +99,7 @@ No. Packet (Hex)                   Summary   Log   Result
 
 If you use this software in a research project or academic work, please cite the original author and link to the GitHub repository:
 
-> **Zoltán Dobrady** (2025). *ModRTU_InjectX: A Command Injection Simulation Tool for Industrial Cybersecurity Research*.  
+> **Zoltán Dobrády** (2025). *ModRTU_InjectX: A Command Injection Simulation Tool for Industrial Cybersecurity Research*.  
 > GitHub: [https://github.com/Dobrady/ModRTU_InjectX_distributions](https://github.com/Dobrady/ModRTU_InjectX_distributions)
 
 ---
