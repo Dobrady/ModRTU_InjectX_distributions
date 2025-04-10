@@ -84,8 +84,10 @@ Packet Occurrence Consistency Validation – Summary vs. Log
 
 No. Packet (Hex)                   Summary   Log   Result
 ----------------------------------------------------------
-1   01 06 00 09 00 09 CE 99 0D 0A   20        40    OK – All responded
-2   01 06 00 08 00 08 CE 09 0D 0A   20        40    OK – All responded
+1     01 06 00 09 00 46 3A D8 0D 0A                 502        502        OK
+2     01 06 00 08 00 23 D1 49 0D 0A                 502        502        OK
+3     01 06 00 09 00 09 CE 99 0D 0A                  20         40        OK – All responded
+4     01 06 00 08 00 08 CE 09 0D 0A                  20         40        OK – All responded
 ```
 
 ΔT plots highlight successful injection rounds, where response times sharply drop due to real-time replies from the target device.
