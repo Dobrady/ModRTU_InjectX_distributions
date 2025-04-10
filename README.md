@@ -10,7 +10,7 @@
 ---
 ## Legal Notice
 
-- Author: Zoltán Dobrady  
+- Author: Zoltán Dobrády  
 - Website: www.cyberseclab.eu  
 - Contact: zoltan.dobrady@hotmail.com  
 - License: Creative Commons BY-NC 4.0  
